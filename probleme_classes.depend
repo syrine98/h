@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580809284 source:c:\users\sirine.sirine-pc\desktop\projet c ++\probleme_classes\main.cpp
+	<iostream>
+	"ensemble.h"
+
+1580809581 c:\users\sirine.sirine-pc\desktop\projet c ++\probleme_classes\include\ensemble.h
+
+1580835075 source:c:\users\sirine.sirine-pc\desktop\projet c ++\probleme_classes\src\ensemble.cpp
+	"ensemble.h"
+	<iostream>
+
